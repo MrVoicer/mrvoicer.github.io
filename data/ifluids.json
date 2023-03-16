@@ -932,72 +932,72 @@
     "Title": "HAZOP STUDY FOR TEAM LEADERS & TEAM MEMBERS",
     "Date": "April 27, 2020",
     "ID": "IFTA042720ADPS00001",
-    "Email": null,
-    "Link": null
+    "Email": "",
+    "Link": ""
   },
   {
     "Name": "Wassila Rebbaj",
     "Title": "HAZOP STUDY FOR TEAM LEADERS & TEAM MEMBERS",
     "Date": "April 27, 2020",
     "ID": "IFTA042720ADPS00002",
-    "Email": null,
-    "Link": null
+    "Email": "",
+    "Link": ""
   },
   {
     "Name": "Srinivas Ambadi",
     "Title": "HAZOP STUDY FOR TEAM LEADERS & TEAM MEMBERS",
     "Date": "April 27, 2020",
     "ID": "IFTA042720ADPS00003",
-    "Email": null,
-    "Link": null
+    "Email": "",
+    "Link": ""
   },
   {
     "Name": "Jeyakumar Deivasigamani",
     "Title": "HAZOP STUDY FOR TEAM LEADERS & TEAM MEMBERS",
     "Date": "April 27, 2020",
     "ID": "IFTA042720ADPS00004",
-    "Email": null,
-    "Link": null
+    "Email": "",
+    "Link": ""
   },
   {
     "Name": "Tahir Syed",
     "Title": "HAZOP STUDY FOR TEAM LEADERS & TEAM MEMBERS",
     "Date": "April 20, 2020",
     "ID": "IFTA042020ADPS00001",
-    "Email": null,
-    "Link": null
+    "Email": "",
+    "Link": ""
   },
   {
     "Name": "Mohammad Amir",
     "Title": "HAZOP STUDY FOR TEAM LEADERS & TEAM MEMBERS",
     "Date": "April 20, 2020",
     "ID": "IFTA042020ADPS00002",
-    "Email": null,
-    "Link": null
+    "Email": "",
+    "Link": ""
   },
   {
     "Name": "Subbakrishna Ravi Ramaswamy",
     "Title": "HAZOP STUDY FOR TEAM LEADERS & TEAM MEMBERS",
     "Date": "April 22, 2020",
     "ID": "IFTA042220ADPS00001",
-    "Email": null,
-    "Link": null
+    "Email": "",
+    "Link": ""
   },
   {
     "Name": "D.Venkateswara Rao",
     "Title": "HAZOP STUDY FOR TEAM LEADERS & TEAM MEMBERS",
     "Date": "April 22, 2020",
     "ID": "IFTA042220ADPS00002",
-    "Email": null,
-    "Link": null
+    "Email": "",
+    "Link": ""
   },
   {
     "Name": "Premnath D",
     "Title": "Website Developement",
     "Date": "May 22, 2010",
-    "ID": "123",
+    "ID": 123,
     "Email": "prem@gmail.com",
-    "Link": null
+    "Link": ""
   },
   {
     "Name": "Navanath Tikode",
@@ -19664,7 +19664,7 @@
     "Link": "https://drive.google.com/file/d/15jH6Z4SrbH5mLCIfSebM3IG1JGuw9BWq/view?usp=drivesdk"
   },
   {
-    "Name": "Mohamed Athil P M ",
+    "Name": "Mohamed Athil P M",
     "Title": "Process Engineering Design for Oil & Gas",
     "Date": "August 30, 2020",
     "ID": "IFTA300820NNPS00011",
@@ -20984,7 +20984,7 @@
     "Link": "https://drive.google.com/file/d/1OtGKKgKyjT29VyLcBlxcn3qMESzPjaYY/view?usp=drivesdk"
   },
   {
-    "Name": "Nimisha Sara Eapen ",
+    "Name": "Nimisha Sara Eapen",
     "Title": "Process Engineering Design for Oil & Gas",
     "Date": "August 30, 2020",
     "ID": "IFTA300820NNPS00176",
@@ -22632,7 +22632,7 @@
     "Link": "https://drive.google.com/file/d/1WGwEdEuuy2Q6cc8W1MEBVsGiJ2XNgsIQ/view?usp=sharing"
   },
   {
-    "Name": "J Karthick ",
+    "Name": "J Karthick",
     "Title": "HAZOP Training",
     "Date": "December 15, 2021",
     "ID": "IFTA121521PJPS00010",
@@ -22744,7 +22744,7 @@
     "Link": "https://drive.google.com/file/d/1uy8KWQwd1Xuurm_npsP3f_KYd47BOinF/view?usp=sharing"
   },
   {
-    "Name": "Sahil Kushwaha ",
+    "Name": "Sahil Kushwaha",
     "Title": "HAZOP -Workshop",
     "Date": "3rd February 2022",
     "ID": "IFTA020322PJPS00003",
@@ -23856,7 +23856,7 @@
     "Link": "https://drive.google.com/file/d/1HL87Y2v5q7UXBOVKvP-uNr15t-3PdN74/view?usp=drivesdk"
   },
   {
-    "Name": "Vijay G Tijare  ",
+    "Name": "Vijay G Tijare",
     "Title": "Introduction to HAZOP Study",
     "Date": "January 28,2023",
     "ID": "IFTA012823SVPS00075",
@@ -24593,7 +24593,7 @@
   },
   {
     "Name": "Acharya Rajendra K",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 21, 2023",
     "ID": "IFTA020823STPS00001",
     "Email": "rajendra_acharya@mrpl.co.in",
@@ -24601,7 +24601,7 @@
   },
   {
     "Name": "Sathisha Devadiga K",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 08, 2023",
     "ID": "IFTA020823STPS00002",
     "Email": "sathishadevadiga@mrpl.co.in",
@@ -24609,7 +24609,7 @@
   },
   {
     "Name": "Ram Mohan M G",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 09, 2023",
     "ID": "IFTA020823STPS00003",
     "Email": "mgr@mrpl.co.in",
@@ -24617,7 +24617,7 @@
   },
   {
     "Name": "Harshadul Faseem P",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 10, 2023",
     "ID": "IFTA020823STPS00004",
     "Email": "harshadul@mrpl.co.in",
@@ -24625,7 +24625,7 @@
   },
   {
     "Name": "Jagdamba Yadav",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 11, 2023",
     "ID": "IFTA020823STPS00005",
     "Email": "jagadambay@mrpl.co.in",
@@ -24633,7 +24633,7 @@
   },
   {
     "Name": "Janmejaya Mohapatra",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 12, 2023",
     "ID": "IFTA020823STPS00006",
     "Email": "janmejaya@mrpl.co.in",
@@ -24641,7 +24641,7 @@
   },
   {
     "Name": "Anantha Krishnan V S",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 13, 2023",
     "ID": "IFTA020823STPS00007",
     "Email": "ananthakrishnan@mrpl.co.in",
@@ -24649,7 +24649,7 @@
   },
   {
     "Name": "Prajwal Malli",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 14, 2023",
     "ID": "IFTA020823STPS00008",
     "Email": "prajwal.malli@mrpl.co.in.",
@@ -24657,7 +24657,7 @@
   },
   {
     "Name": "Akanksha Agarwal",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 15, 2023",
     "ID": "IFTA020823STPS00009",
     "Email": "akanksha@mrpl.co.in",
@@ -24665,7 +24665,7 @@
   },
   {
     "Name": "Kuncham Ravi Teja",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 16, 2023",
     "ID": "IFTA020823STPS00010",
     "Email": "ravitejak@mrpl.co.in",
@@ -24673,7 +24673,7 @@
   },
   {
     "Name": "Manohar K",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 17, 2023",
     "ID": "IFTA020823STPS00011",
     "Email": "manohark@mrpl.co.in",
@@ -24681,7 +24681,7 @@
   },
   {
     "Name": "Vinaya Kumar",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 18, 2023",
     "ID": "IFTA020823STPS00012",
     "Email": "vinayakumar@mrpl.co.in",
@@ -24689,7 +24689,7 @@
   },
   {
     "Name": "Yathish Shetty",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 19, 2023",
     "ID": "IFTA020823STPS00013",
     "Email": "yathish_shetty@mrpl.co.in",
@@ -24697,7 +24697,7 @@
   },
   {
     "Name": "Ashoka Kumara",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 20, 2023",
     "ID": "IFTA020823STPS00014",
     "Email": "ashokakumara@mrpl.co.in",
@@ -24705,7 +24705,7 @@
   },
   {
     "Name": "Pavan Kumar Kannaujiya",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 22, 2023",
     "ID": "IFTA020823STPS00015",
     "Email": "pavan.kannaujiya@mrpl.co.in",
@@ -24713,66 +24713,10 @@
   },
   {
     "Name": "Anjali Raghavan",
-    "Title": "Process hazard Analysis  (PHA) ",
+    "Title": "Process hazard Analysis  (PHA)",
     "Date": "February 23, 2023",
     "ID": "IFTA020823STPS00016",
     "Email": "anjali.r@mrpl.co.in",
     "Link": "https://drive.google.com/file/d/1zmNjeCf0Ls4N1oKD0K8kTR6NMDTDw3LY/view?usp=share_link"
-  },
-  {
-    "Name": "Thamir Al Riyami",
-    "Title": "API 510 Pressure Vessel Inspector Training",
-    "Date": "March 5,2023",
-    "ID": "EETA030523AVAPI00001",
-    "Email": "thamir_alriyami@oxy.com",
-    "Link": "https://drive.google.com/file/d/1iV9cJZTc6QBkx6VYotFSE3yqb1DFIq85/view?usp=share_link"
-  },
-  {
-    "Name": "Al Harthy Ibrahim",
-    "Title": "API 510 Pressure Vessel Inspector Training",
-    "Date": "March 5,2023",
-    "ID": "EETA030523AVAPI00002",
-    "Email": "ibrahim_alharthi@oxy.com",
-    "Link": "https://drive.google.com/file/d/1BU5fHgu4hpeUTpO1D2ZMSh1dhMcks4DJ/view?usp=share_link"
-  },
-  {
-    "Name": "Al Alawi Said",
-    "Title": "API 510 Pressure Vessel Inspector Training",
-    "Date": "March 5,2023",
-    "ID": "EETA030523AVAPI00003",
-    "Email": "said_alalawi2@oxy.com",
-    "Link": "https://drive.google.com/file/d/1_7EvEyUrFjtX053MWMTBare7uckTkNiH/view?usp=share_link"
-  },
-  {
-    "Name": "Al Namani Hamood",
-    "Title": "API 510 Pressure Vessel Inspector Training",
-    "Date": "March 5,2023",
-    "ID": "EETA030523AVAPI00004",
-    "Email": "hamood_al_naamani@oxy.com",
-    "Link": "https://drive.google.com/file/d/1eC_82HhEcyntclF7Dr_A5-AKQLgzFBEE/view?usp=share_link"
-  },
-  {
-    "Name": "Nassr Al Sabqi",
-    "Title": "API 510 Pressure Vessel Inspector Training",
-    "Date": "March 5,2023",
-    "ID": "EETA030523AVAPI00005",
-    "Email": "nassr_alsabqi@oxy.com",
-    "Link": "https://drive.google.com/file/d/1AcZSPI2bKZ7K0bGvSByJbW-YJ-mU6wHD/view?usp=share_link"
-  },
-  {
-    "Name": "Al Alawi Qais",
-    "Title": "API 510 Pressure Vessel Inspector Training",
-    "Date": "March 5,2023",
-    "ID": "EETA030523AVAPI00006",
-    "Email": "qais_alalawi@oxy.com",
-    "Link": "https://drive.google.com/file/d/1rTSktiEu2d_a-oysqvFcjNKSmt7HrFBV/view?usp=share_link"
-  },
-  {
-    "Name": "Al Barwani Saad",
-    "Title": "API 510 Pressure Vessel Inspector Training",
-    "Date": "March 5,2023",
-    "ID": "EETA030523AVAPI00007",
-    "Email": "saad_albarwani@oxy.com",
-    "Link": "https://drive.google.com/file/d/1ol851AY5xW9LNv5bbQCVMZUdqzhynn12/view?usp=share_link"
   }
 ]
